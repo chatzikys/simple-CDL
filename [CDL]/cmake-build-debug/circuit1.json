@@ -1,0 +1,34 @@
+{
+  "branches": {
+    "1": {
+      "start": [
+        1,
+        1
+      ],
+      "end": [
+        2,
+        1
+      ],
+      "vsource": {
+        "voltage": 10,
+        "direction": true,
+        "number": 1
+      }
+    },
+    "2": {
+      "start": [
+        1,
+        1
+      ],
+      "end": [
+        1,
+        2
+      ],
+      "resistor": {
+        "resistance": 2,
+        "number": 1
+      }
+    },
+    "3": 1
+  }
+}

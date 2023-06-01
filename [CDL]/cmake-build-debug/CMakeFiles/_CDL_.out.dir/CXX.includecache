@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../jsonparser.h
+iostream
+-
+fstream
+-
+json/json.h
+-
+json/value.h
+-
+
+/home/chatzikys/[CDL]/jsonparser.cpp
+jsonparser.h
+/home/chatzikys/[CDL]/jsonparser.h
+fstream
+-
+json/json.h
+-
+json/value.h
+-
+filesystem
+-
+
+/home/chatzikys/[CDL]/jsonparser.h
+iostream
+-
+fstream
+-
+json/json.h
+-
+json/value.h
+-
+
+/home/chatzikys/[CDL]/main.cpp
+iostream
+-
+jsonparser.h
+-
+

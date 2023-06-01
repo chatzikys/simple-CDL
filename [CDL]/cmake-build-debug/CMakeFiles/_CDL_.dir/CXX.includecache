@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../branches.h
+iostream
+-
+
+../jsonparser.h
+iostream
+-
+fstream
+-
+json/json.h
+-
+json/value.h
+-
+
+/home/chatzikys/[CDL]/main.cpp
+iostream
+-
+jsonparser.h
+-
+branches.h
+-
+

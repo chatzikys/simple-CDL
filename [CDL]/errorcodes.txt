@@ -1,0 +1,6 @@
+EXIT CODES:
+0   Everything Is OK.
+1   Argument Error
+40  File Loading Failed, file with the same name created. <-jsonparser
+
+

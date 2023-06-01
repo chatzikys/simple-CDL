@@ -1,0 +1,4 @@
+/opt/jetbrains-clion-pj/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/chatzikys/[CDL]
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/chatzikys/[CDL]/cmake-build-debug
