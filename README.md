@@ -1,4 +1,7 @@
-# simple-CDL
+# (simple-CDL) This will not be updated ever!
+# I will make something similar using rust.
+# At the moment I dont know rust. But it will be a nice learning oportunity!
+
 ## A simple to use HDL to describe simple circuits
 
 
